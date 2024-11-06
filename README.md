@@ -1,0 +1,2 @@
+# InfotechPortal
+портал для лицея 
